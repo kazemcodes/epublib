@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/epublib.iml" filepath="$PROJECT_DIR$/.idea/epublib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-core/src/examples/examples.iml" filepath="$PROJECT_DIR$/epublib-core/src/examples/examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-tools/src/main/groovy/groovy.iml" filepath="$PROJECT_DIR$/epublib-tools/src/main/groovy/groovy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-tools/src/main/main.iml" filepath="$PROJECT_DIR$/epublib-tools/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-core/src/main/main1.iml" filepath="$PROJECT_DIR$/epublib-core/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-core/src/test/test.iml" filepath="$PROJECT_DIR$/epublib-core/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/epublib-tools/src/test/test1.iml" filepath="$PROJECT_DIR$/epublib-tools/src/test/test1.iml" />
+    </modules>
+  </component>
+</project>

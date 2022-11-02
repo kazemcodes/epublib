@@ -103,12 +103,12 @@ Add the following lines to your `app` module's `build.gradle` file:
 
         repositories {
             maven {
-                url 'https://github.com/psiegman/mvn-repo/raw/master/releases'
+                url 'https://s01.oss.sonatype.org/content/repositories/snapshots/'
             }
         }
  
         dependencies {
-            implementation('nl.siegmann.epublib:epublib-core:4.0') {
+            implementation('io.github.kazemcodes:epublib-core:4.0-SNAPSHOT') {
                 exclude group: 'org.slf4j'
                 exclude group: 'xmlpull'
             }
